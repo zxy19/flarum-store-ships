@@ -1,0 +1,7 @@
+xypp-store-ships:
+  forum:
+    name: "Ship"
+  api:
+    no-configuration: "No Reward Configured"
+    no-item-found: "Configured item not found."
+    not-done: "This ship have not back yet."
